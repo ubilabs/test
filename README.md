@@ -1,9 +1,9 @@
 # UBILABS TESTS
 
-1. <a href="http://jsbin.com/nogoko/edit">HTML</a>
-2. <a href="http://jsbin.com/lokoqa/edit">JS</a>
-3. <a href="http://jsbin.com/hekifa/edit">CSS</a>
-4. <a href="http://jsbin.com/pizoqo/edit">Google Maps</a>
+1. <a href="./01-html">HTML</a>
+2. <a href="./02-js">JS</a>
+3. <a href="./03-css">CSS</a>
+4. <a href="./04-map">Google Maps</a>
 
 
 ```
@@ -30,6 +30,5 @@ To apply, follow these steps:
 5. copy the four URLs
 6. send together with <a href="http://goo.gl/forms/JAZxGRmCK6">this form</a>
 
-Hint: A login is not required to edit the page. 
 
 THANK YOU!
