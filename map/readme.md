@@ -16,14 +16,3 @@ Two links to get you started:
 Note: Please create copy this project by editing it and send us your final URL.
 
 Main page for all tests: http://jsbin.com/sifemo
-
-<div id="map" style="height: 800px;"></div>
-
-<script src="https://maps.googleapis.com/maps/api/js?key=XXXXXXXXXXXX"></script>
-
-<script>
-var map = new google.maps.Map(document.getElementById('map'), {
-  center: {lat: -34.397, lng: 150.644},
-  zoom: 8
-});
-</script>
