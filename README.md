@@ -6,6 +6,7 @@
 4. <a href="http://jsbin.com/pizoqo/edit">Google Maps</a>
 
 
+```
      .#########.
    .##############.
   #################\
@@ -18,6 +19,7 @@
    `##############´
      `#########´
 
+```
 
 To apply, follow these steps:
 
