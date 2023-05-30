@@ -14,4 +14,5 @@ Two links to get you started:
 * https://developers.google.com/maps/documentation/javascript/examples/
 
 Note: We will sent you a API key that should work on Stackblitz and localhost:1337.
-If yiu run into problems, let us know.
+
+If you run into problems, please let us know.
