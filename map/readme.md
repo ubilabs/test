@@ -13,6 +13,5 @@ Two links to get you started:
 * https://developers.google.com/maps/documentation/javascript/reference
 * https://developers.google.com/maps/documentation/javascript/examples/
 
-Note: Please create copy this project by editing it and send us your final URL.
-
-Main page for all tests: http://jsbin.com/sifemo
+Note: We will sent you a API key that should work on Stackblitz and localhost:1337.
+If yiu run into problems, let us know.
