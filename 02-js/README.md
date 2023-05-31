@@ -22,7 +22,10 @@ And the approved answer is:
  }
 ```
 
-Code Review 
+
+### Your task
+
+Do a code review on the provided solution. 
 
 * Tell us what you think about it. 
 * Hint: Bullet points are perfect!
