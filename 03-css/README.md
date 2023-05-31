@@ -9,7 +9,3 @@
 * Don't care about old browsers.
 
 Happy coding and stop after 30 minutes!
-
-Note: Please create copy this project by editing it and send us your final URL.
-
-Main page for all tests: http://jsbin.com/sifemo
