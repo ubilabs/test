@@ -26,7 +26,7 @@
 
 To apply, follow these steps:
 
-1. Clone this repo (eg using [stackblitz.com](https://stackblitz.com/github.com/ubilabs/tests))
+1. Clone this repo (eg using <a href="https://stackblitz.com/github.com/ubilabs/tests" target="_blank">stackblitz.com</a>
 2. Open the README.md in the four folders
 3. Start hacking
 4. Stop after the time is up
