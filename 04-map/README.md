@@ -1,10 +1,16 @@
-# UBILABS TEST 4 - Google Maps
+### UBILABS TEST 4 
+# Google Maps
+
+The last test focusses on basic map with markers.
+
+### Your task
 
 * Create a full-screen Google Map.
 * Use V3 of the JavaScript API.
 * Place 200 random markers.
 * Add a click handler to the markers.
 * On click, highlight the closest 10 markers.
+* Bonus: use React to create the demo
 
 This might take you some time to solve. But do not spend more than an hour and send me the last working version, even if it is not perfect.
 
