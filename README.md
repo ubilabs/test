@@ -26,11 +26,11 @@
 
 To apply, follow these steps:
 
-1. clone this repo (eg using [stackblitz.com](https://stackblitz.com/github.com/ubilabs/tests))
-2. open the README.md in the four folders
-3. start hacking
-4. stop after the time's up
-5. send us the results
+1. Clone this repo (eg using [stackblitz.com](https://stackblitz.com/github.com/ubilabs/tests))
+2. Open the README.md in the four folders
+3. Start hacking
+4. Stop after the time is up
+5. Send us the results
 
 THANK YOU!
 

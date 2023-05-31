@@ -27,6 +27,7 @@ Code Review
 * Tell us what you think about it. 
 * Hint: Bullet points are perfect!
 * Write your own helper to solve the question.
+* Limitation: The code should be ES5 compatible.
 
 We'd like to see a list of things you would change or improve. 
 Simply go through the code line by line and compile a list of what is good or bad.
