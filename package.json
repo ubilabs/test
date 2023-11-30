@@ -8,6 +8,7 @@
   "author": "kleppe@ubilabs.com",
   "license": "ISC",
   "dependencies": {
+    "@googlemaps/js-api-loader": "^1.16.2",
     "http-server": "^14.1.1"
   }
 }
